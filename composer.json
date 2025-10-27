@@ -1,5 +1,5 @@
 {
-	"name": "phpstan/phpstan",
+	"name": "m0shiurx/phpstan",
 	"description": "PHPStan - PHP Static Analysis Tool",
 	"license": ["MIT"],
 	"keywords": ["dev", "static analysis"],
